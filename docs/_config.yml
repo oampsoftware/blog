@@ -11,4 +11,4 @@ github_username:  oampsoftware
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
