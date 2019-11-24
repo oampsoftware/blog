@@ -12,3 +12,11 @@ github_username:  oampsoftware
 markdown: kramdown
 permalink: /:year/:title:output_ext
 # theme: jekyll-theme-cayman
+collections:
+    security:
+        pam:
+            output: true
+        radius:
+            output: true
+        tacplus:
+            output: true
