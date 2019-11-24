@@ -17,8 +17,6 @@ You can find pages describing each of these areas on this site.
 
 If you have any questions, please email me at geoff.nichols@oampsoftware.com
 
-Geoff Nichols
-
-Ottawa, Ontario, Canada
-
-2019
+Geoff Nichols  
+Ottawa, Ontario, Canada  
+2019  
