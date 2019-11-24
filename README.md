@@ -1,3 +1,1 @@
-# Security for Unix-like Systems
-PAM
-TACACS+
+# OAMP for Embedded Systems
