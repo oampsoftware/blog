@@ -13,10 +13,20 @@ markdown: kramdown
 permalink: /:year/:title:output_ext
 # theme: jekyll-theme-cayman
 collections:
-    security:
+    operations:
+        output: true
+    administration:
+        output: true
+        aaa:
+            output: true
+            radius:
+                output: true
+            tacplus:
+                output: true
         pam:
             output: true
-        radius:
-            output: true
-        tacplus:
-            output: true
+    maintenance:
+        output: true
+    provisioning:
+        output: true
+
