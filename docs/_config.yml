@@ -2,7 +2,10 @@
 title: OAMP for Embedded Systems
 email: geoff.nichols@oampsoftware.com
 description: > # this means to ignore newlines until "baseurl:"
-  OAMP for Embedded Systems
+  OAMP for Embedded Systems is a site dedicated to developing OAMP
+  software for embedded systems (like telecom equipment). This includes
+  such topics as AAA (RADIUS, TACACS+, PAM), Performance Monitoring, Logging,
+  Web Interface, CLI, SNMP, NetCONF, Open Daylight.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://oampsoftware.github.io" # the base hostname & protocol for your site
 twitter_username: oampsoftware
