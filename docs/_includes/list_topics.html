@@ -1,7 +1,7 @@
 {% assign topics = site.administration| sort:'title' %}
 {% for topic in topics %}
-# Title {{topic.title}}
+# Title {{ topic.title }}
 {% if page.url != administration.url and include.taxonomy == nil or topic.url contains include.taxonomy %}
-<a  href={{ topic.url | prepend: site.baseurl }}>{{topic.title}}</a>
+<a  href={{ topic.url | prepend: site.baseurl }}>{{ topic.title }}</a>
 {% endif %}
 {% endfor %} 
