@@ -1,4 +1,4 @@
-{% assign topics = site.administration| sort:'title' %}
+{% assign topics = site._administration| sort:'title' %}
 {% for topic in topics %}
 # Title {{ topic.title }}
 {% if page.url != administration.url and include.taxonomy == nil or topic.url contains include.taxonomy %}
