@@ -10,7 +10,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://oampsoftware.github.io" # the base hostname & protocol for your site
 twitter_username: oampsoftware
 github_username:  oampsoftware
-location: 'Ottawa, Ontario'
+location: Ottawa
 
 # Build settings
 markdown: kramdown
