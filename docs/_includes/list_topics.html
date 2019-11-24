@@ -1,4 +1,5 @@
-{% assign admin_topics = site.administration| sort:'title' %}
+{% assign topics = site.administration| sort:'title' %}
+# {{topic.title}}
 {% for topic in topics %}
 {% if page.url != administration.url  and include.taxonomy == nil or topic.url contains include.taxonomy %}
 <a  href={{ topic.url | prepend: site.baseurl }}>{{topic.title}}</a>
