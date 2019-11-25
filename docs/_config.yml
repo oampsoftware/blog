@@ -1,8 +1,8 @@
 # Site settings
-title: OAMP for Embedded Systems
+title: OAMP Software
 email: geoff.nichols@oampsoftware.com
 description: > # this means to ignore newlines until "baseurl:"
-  OAMP for Embedded Systems is a site dedicated to developing OAMP
+  OAMP Software is a site dedicated to developing OAMP
   software for embedded systems (like telecom equipment). This includes
   such topics as AAA (RADIUS, TACACS+, PAM), Performance Monitoring, Logging,
   Web Interface, CLI, SNMP, NetCONF, Open Daylight.
