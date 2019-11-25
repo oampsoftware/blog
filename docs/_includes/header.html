@@ -20,8 +20,8 @@
           {% endif %}
         {% endfor %}
         {% for admin_topic in site.administration %}
-          {% if page.title %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | append: administration }}">{{ page.title }}</a>
+          {% if admin_topic.title %}
+            <a class="page-link" href="{{ admin_topic.url | prepend: site.baseurl }}">{{ admin_topic.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
