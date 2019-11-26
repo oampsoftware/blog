@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Geoff Nichols. I have created this site to provide information about management software for embedded systems (or systems with an embedded component). 
+My name is Geoff Nichols. This site contains reference material that I find interesting. This will mostly include all things related to management of embedded devices or `OAMP Software`. 
 
 The acronym OAMP describes some common areas of concern:
 1. Operations
